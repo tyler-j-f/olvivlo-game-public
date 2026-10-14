@@ -4,7 +4,7 @@ Public pages for games by Olvivlo, served by GitHub Pages. The games' source cod
 
 ## Hippo House
 
-You're a small purple hippo with wings, loose in everyday 90s places: a suburban house, a school, an office, etc. You have 60 seconds to grab as many stars as you can while the enemies there try to hit you out of the air. Blow bubbles back at them, dodge the fly swatter, and keep your chain going.
+You're a small purple hippo with wings, loose in everyday 90s places: a suburban house, a school, an office, etc. You have 60 seconds to grab as many stars as you can while the enemies there try to hit you out of the air. Blow bubbles back at them, dodge their attacks, and keep your chain going.
 
 When you want a break from the one-minute rush, there are other modes to unlock too, like racing along a single line of stars or seeing how long you can keep the clock going.
 
