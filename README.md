@@ -17,9 +17,9 @@ Built in Unity. The art is procedural, made in code; music uses CC0 loops from O
 
 | Page | URL |
 |---|---|
-| Home | https://tyler-j-f.github.io/olvivlo-game-public/ |
-| Support | https://tyler-j-f.github.io/olvivlo-game-public/hippo-house/support.html |
-| Privacy Policy | https://tyler-j-f.github.io/olvivlo-game-public/hippo-house/privacy.html |
+| Home | https://tyler-j-f.github.io/olvivlo-game-public/olvivlo/ |
+| Support | https://tyler-j-f.github.io/olvivlo-game-public/olvivlo/support.html |
+| Privacy Policy | https://tyler-j-f.github.io/olvivlo-game-public/olvivlo/privacy.html |
 
 This repository hosts the public pages, not the game source. The existing `hippo-house/` URLs remain available for links already in use.
 
