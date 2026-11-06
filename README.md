@@ -1,27 +1,27 @@
-# Olvivlo games — public pages
+# Olvivlo
 
-Public pages for games by Olvivlo, served by GitHub Pages. The games' source code is not here.
+Olvivlo is a flying arcade game in development for iPhone and iPad.
 
-## Hippo House
+A tiny purple hippo with wings, loose in a 90s house, school, office and more. One minute on the clock. Grab every star, fly solo or online, and hit back.
 
-You're a small purple hippo with wings, loose in everyday 90s places: a suburban house, a school, an office, etc. You have 60 seconds to grab as many stars as you can while the enemies there try to hit you out of the air. Blow bubbles back at them, dodge their attacks, and keep your chain going.
+Fly through a house, school, office, fire station and police station, each generated fresh for another run. Collect stars, dodge the people trying to swat you, blow bubbles back and make use of magnets, multipliers, bubble buddies, warps and more.
 
-When you want a break from the one-minute rush, there are other modes to unlock too, like racing along a single line of stars or seeing how long you can keep the clock going.
+- **Multiplayer online or against bots.** Compete with other players over the internet, or race computer-controlled hippos. Empty multiplayer places fill with bots. Bot matches can be played offline; online multiplayer is being prepared for launch.
+- **Daily Challenge.** One level and one layout for everyone, new every day. One free daily run, optional Extra Daily Plays, and Daily leaderboards through optional Game Center sign-in.
+- **Solo and more modes.** Chase a one-minute score, race along a line of stars, or keep flying by collecting clocks.
+- **Free to play.** Optional in-app purchases include character and buddy looks, things to shoot, time packs and Extra Daily Plays. No Olvivlo account required. Ads are disabled.
 
-- **Every level is new.** Each house, school and office is generated fresh every time you play.
-- **Powerups.** Magnets, multipliers, bubble buddies, warps, invincibility and more.
-- **On iPhone and iPad**, free, with optional cosmetic in-app purchases (new characters, buddy looks, things to shoot) and time packs to keep a round going. No ads, no account, no data collected, plays offline.
+Built in Unity. The art is procedural, made in code; music uses CC0 loops from OpenGameArt and the fonts Nunito and Fredoka are SIL OFL.
 
-Built in Unity. All art is procedural, made in code; the music is CC0 loops from OpenGameArt and the fonts (Nunito, Fredoka) are SIL OFL.
-
-### Pages
+## Public pages
 
 | Page | URL |
 |---|---|
-| Home | https://tyler-j-f.github.io/olvivlo-game-public/hippo-house/ |
+| Home | https://tyler-j-f.github.io/olvivlo-game-public/ |
 | Support | https://tyler-j-f.github.io/olvivlo-game-public/hippo-house/support.html |
 | Privacy Policy | https://tyler-j-f.github.io/olvivlo-game-public/hippo-house/privacy.html |
 
+This repository hosts the public pages, not the game source. The existing `hippo-house/` URLs remain available for links already in use.
+
 Contact: [support@olvivlo.com](mailto:support@olvivlo.com)
 
-These pages may move to olvivlo.com later; if they do, the pages here will point to the new address.
